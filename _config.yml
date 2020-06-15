@@ -8,7 +8,7 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: f.moraes@tudelft.ml
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -94,5 +94,3 @@ exclude: [
   'README.md'
 ]
 
-# Theme
-version: v3.1.0
