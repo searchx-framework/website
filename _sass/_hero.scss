@@ -59,10 +59,10 @@
 
     .description {
       font-size: rem(24px);
-      color: #fff;
-      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
-      margin: 0;
-
+      color: #000;
+      margin: 10px;
+      padding: 10px;
+      background-color: #00A6D6 ;
       @include media(">=sm") {
         font-size: rem(26px);
       }

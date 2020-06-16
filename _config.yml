@@ -1,15 +1,14 @@
 # Site Settings
 name: SearchX
-title: SearchX | A Collaborative Search System
+title: SearchX Collaborative Search System
 description: SearchX is a scalable collaborative search system being developed by Lambda Lab of TU Delft.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: f.moraes@tudelft.ml
-disqus_username: disqus_username
+  - search system
+  - collaborative search
+  - information retrieval
+  - tu delft
+  - collaborative search engine
+email: f.moraes@tudelft.nl
 show_hero: true
 menu:
   - title: Home
@@ -18,14 +17,11 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: searchx-info
-
 
 # Posts Settings
 show_time_bar: false
@@ -94,3 +90,4 @@ exclude: [
   'README.md'
 ]
 
+# Theme

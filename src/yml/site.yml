@@ -1,14 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: SearchX
+title: SearchX Collaborative Search System
+description: SearchX is a scalable collaborative search system being developed by Lambda Lab of TU Delft.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - search system
+  - collaborative search
+  - information retrieval
+  - tu delft
+  - collaborative search engine
+email: f.moraes@tudelft.nl
 show_hero: true
 menu:
   - title: Home
@@ -17,5 +16,3 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
