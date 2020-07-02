@@ -11,6 +11,13 @@
 # Advanced Settings
 #=include advanced.yml
 
+
+menu:
+  - title: Home
+    url: /
+  - title: Contact
+    url: /contact
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

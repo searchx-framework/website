@@ -39,6 +39,13 @@ categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
 
+
+menu:
+  - title: Home
+    url: /
+  - title: Contact
+    url: /contact
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
